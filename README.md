@@ -2,7 +2,6 @@
 
 # F.A.Q
 
-# KrA
 - KrA can audit files and directories for PHP, ASP, RUBY, JAVA, JAVASCRIPT for errors, bugs and vulnerabilities
 
 # Vulnerability List
