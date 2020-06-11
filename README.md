@@ -2,6 +2,8 @@
 
 # F.A.Q
 
+- Created by Haroon Awan 
+- updated by Arham Khan :D 
 - it can audit files and directories for PHP, ASP, RUBY, JAVA, JAVASCRIPT for errors, bugs and vulnerabilities
 
 # Vulnerability List
