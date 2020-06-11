@@ -2,7 +2,7 @@
 
 # F.A.Q
 
-- KrA can audit files and directories for PHP, ASP, RUBY, JAVA, JAVASCRIPT for errors, bugs and vulnerabilities
+- it can audit files and directories for PHP, ASP, RUBY, JAVA, JAVASCRIPT for errors, bugs and vulnerabilities
 
 # Vulnerability List
 - File Manipulation | Command injection | XSS | Unserialize Function
